@@ -33,7 +33,7 @@ class _TechnicalDocumentationState extends State<TechnicalDocumentation> {
     double width = MediaQuery.of(context).size.width;
     return (width < 450)
         ? const MobileView()
-        : (width < 800)
+        : (width < 821)
             ? const TabletView()
             : const DesktopView();
   }
