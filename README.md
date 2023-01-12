@@ -1,16 +1,15 @@
-# technical_documentation
+# Technical Documentation
 
-A new Flutter project.
+JavaSxript Technical Documentation Webpage made completely with Flutter Web
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+This project is the implementation of a technical documentation page similar to one shown in a freeCodeCamp project. This was made completely with Flutter and without much external package dependency.
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Dart
+* Flutter
+* Flutter Web
+* Provider State Management
+* Vercel (Deployment)
